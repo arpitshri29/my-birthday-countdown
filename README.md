@@ -1,2 +1,2 @@
-# new-year-countdown
-New year countdown in JavaScript.
+# my-birthday-countdown
+My birthday countdown in JavaScript.
